@@ -1,0 +1,5 @@
+source_csv,row_index,Trajectory_ID,Frame,Longitudinal_From_Special,Transverse_Dist,Special_Node_X,Special_Node_Y,label,source_file
+D:\Dharaneeswar\sparse\1-7\trajectory_21-63.csv,11,0.0,32.0,-42.99842286897158,-29.39609772165728,403.2165412891744,425.5378673931399,,trajectory_21-63.csv
+D:\Dharaneeswar\sparse\1-7\trajectory_50-111.csv,10,0.0,60.0,-37.376985327232376,88.39828827092597,322.39480004134066,429.91871976205846,,trajectory_50-111.csv
+D:\Dharaneeswar\sparse\1-6\trajectory_56-130.csv,7,0.0,64.0,-6.05347687654371,56.84840774700038,286.1821539210755,242.3545720459244,,trajectory_56-130.csv
+D:\Dharaneeswar\sparse\1-5\trajectoryu_70-204.csv,9,0.0,79.0,-67.92321747697805,-18.904621077562563,421.4691827538558,438.4178078664989,,trajectoryu_70-204.csv

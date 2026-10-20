@@ -1,0 +1,12 @@
+source_csv,row_index,Trajectory_ID,Frame,Longitudinal_From_Special,Transverse_Dist,Special_Node_X,Special_Node_Y,label,source_file
+D:\Dharaneeswar\20260828 large mag eat-5 anterior bulb\1-3\trajectory_100-425.csv,16,0,116,-53.1870811,-22.16487343,422.0694834025466,374.2416324733287,,trajectory_100-425.csv
+D:\Dharaneeswar\20260828 large mag eat-5 anterior bulb\1-5\trajectory_13-762_reviewed_30.csv,17,0,30,-70.70887546,-21.46337641,330.33876735966487,269.6807231282739,,trajectory_13-762_reviewed_30.csv
+D:\Dharaneeswar\20260828 large mag eat-5 anterior bulb\1-5\trajectory_780-1624_reviewed_798.csv,18,0,798,-75.75304028,-9.091661832,400.2434379,487.1176627,,trajectory_780-1624_reviewed_798.csv
+D:\Dharaneeswar\20260828 large mag eat-5 anterior bulb\1-5\trajectory_1591-1694_r_1608.csv,17,0,1608,-59.1189485,-5.412817824,316.6283733995706,491.4133815000929,,trajectory_1591-1694_r_1608.csv
+D:\Dharaneeswar\20260828 large mag eat-5 anterior bulb\1-4\trajectory_152-876_r_171.csv,16,0,170,-67.12224728,-1.827276237,244.7783790692592,344.4189660150939,,trajectory_152-876_r_171.csv
+D:\Dharaneeswar\20260828 large mag eat-5 anterior bulb\1-4\trajectory_449-621_r_456.csv,13,0,474,-46.44395378,4.007669300737091,340.9831331720243,388.9472456843292,,trajectory_449-621_r_456.csv
+D:\Dharaneeswar\20260828 large mag eat-5 anterior bulb\1-4\trajectory_621-684_r_635.csv,14,0,635,-44.06946605,20.643760892940996,325.29314573475585,493.4090874984932,,trajectory_621-684_r_635.csv
+D:\Dharaneeswar\20260828 large mag eat-5 anterior bulb\1-6\trajectory_65-104_r_84.csv,18,0,84,-91.75670692,-1.747517304,340.92042886007505,342.8709386889099,,trajectory_65-104_r_84.csv
+D:\Dharaneeswar\20260828 large mag eat-5 anterior bulb\1-6\trajectory_162-265_r_180.csv,18,0,180,-88.4085774,-6.356028722,282.2748656329569,362.32752172182416,,trajectory_162-265_r_180.csv
+D:\Dharaneeswar\20260828 large mag eat-5 anterior bulb\1-6\trajectory_323-356_r_338.csv,15,0,338,-57.15536832,27.09119026757402,258.27784476019104,343.1312315019716,,trajectory_323-356_r_338.csv
+D:\Dharaneeswar\20260828 large mag eat-5 anterior bulb\1-6\trajectory_497-565_r_512.csv,15,0,512,-54.9901978,-16.57381263,276.2316624812301,372.07619093574544,,trajectory_497-565_r_512.csv

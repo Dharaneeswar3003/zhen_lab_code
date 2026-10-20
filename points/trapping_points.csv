@@ -1,0 +1,13 @@
+source_csv,row_index,Trajectory_ID,Frame,Longitudinal_From_Special,Transverse_Dist,label,source_file
+D:\Dharaneeswar\data\1-1 Masks\498-579\trajectory.csv,75,0,573,9.077445467,-32.17035605,,trajectory.csv
+D:\Dharaneeswar\data\1-1 Masks\854-1085\trajectory.csv,16,0,870,-43.67592536,-23.64763673,,trajectory.csv
+D:\Dharaneeswar\data\1-1 Masks\854-1085\trajectory.csv,74,0,928,-45.48704257,-6.471784148,,trajectory.csv
+D:\Dharaneeswar\data\2-1 Masks\129-471\trajectory_129.csv,19,0,148,-44.88361515,-12.07358927,,trajectory_129.csv
+D:\Dharaneeswar\data\3-1 Masks\100-293\trajectory_100.csv,22,0,122,63.46398927,-1.021477811,,trajectory_100.csv
+D:\Dharaneeswar\data\3-2 Masks\144-482\trajectory_144.csv,29,0,173,28.95651063,-0.132106287,,trajectory_144.csv
+D:\Dharaneeswar\data\3-2 Masks\144-482\trajectory_144.csv,132,0,276,59.13394775,3.489413484,,trajectory_144.csv
+D:\Dharaneeswar\data\3-2 Masks\144-482\trajectory_144.csv,247,0,391,53.62733529,-1.550655484,,trajectory_144.csv
+D:\Dharaneeswar\data\3-3 Masks\particle_1\trajectory_73-213.csv,11,0,88,8.338261659,-0.372020765,,trajectory_73-213.csv
+D:\Dharaneeswar\data\3-3 Masks\particle_1\trajectory_73-213.csv,61,0,138,26.71058804,-2.555371699,,trajectory_73-213.csv
+D:\Dharaneeswar\data\3-3 Masks\particle_2\trajectory_304-524.csv,13,0,317,36.43461441,-3.501680937,,trajectory_304-524.csv
+D:\Dharaneeswar\data\3-3 Masks\particle_2\trajectory_304-524.csv,90,0,394,92.26712572,10.9339202,,trajectory_304-524.csv

@@ -1,0 +1,7 @@
+source_csv,row_index,Trajectory_ID,Frame,Longitudinal_From_Special,Transverse_Dist,Special_Node_X,Special_Node_Y,label,source_file
+D:\Dharaneeswar\data\3-1 Masks\100-293\trajectory_100-293.csv,10,0.0,110.0,16.857737790442993,-16.74655123549102,242.7834756529373,263.1459738895903,,trajectory_100-293.csv
+D:\Dharaneeswar\data\3-3 Masks\particle_1\trajectory_trapped_79.csv,9,0.0,82.0,25.50779136947781,13.325798180507,254.36036209128665,264.6294876913607,,trajectory_trapped_79.csv
+D:\Dharaneeswar\data\3-3 Masks\particle_2\trajectory_aligned_316.csv,14,0.0,318.0,28.038616404564213,-3.0821081456592423,312.4844723214125,203.04136608993952,,trajectory_aligned_316.csv
+D:\Dharaneeswar\data\2-1 Masks\129-471\trajectory_129-471.csv,19,0.0,148.0,-33.212788059485966,-12.073589266760042,231.70272492289857,239.7708006022051,,trajectory_129-471.csv
+D:\Dharaneeswar\data\1-1 Masks\854-1085\trajectory_854-1085.csv,10,0.0,864.0,-4.539711306644803,-26.04121696966255,256.2629616922373,311.732626754223,,trajectory_854-1085.csv
+D:\Dharaneeswar\data\3-2 Masks\144-482\trajectory_144-482.csv,15,0.0,159.0,34.48760052373312,2.9400947270687583,289.9142274581324,232.5785419541984,,trajectory_144-482.csv

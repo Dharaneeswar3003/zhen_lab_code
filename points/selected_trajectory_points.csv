@@ -1,0 +1,3 @@
+source_csv,row_index,Trajectory_ID,Frame,Longitudinal_From_Special,Transverse_Dist,Special_Node_X,Special_Node_Y,label
+D:\Dharaneeswar\data\1-1 Masks\44-60\trajectory_44-60.csv,12,0.0,56.0,17.37540030323236,-2.233704776204797,282.9486577718173,299.9403492253404,
+D:\Dharaneeswar\data\1-1 Masks\215-232\trajectory_215-232.csv,15,0.0,230.0,-0.0006322391211022,18.47450012734917,257.3825228441425,306.1370644851409,,trajectory_215-232.csv
